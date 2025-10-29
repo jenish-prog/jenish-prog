@@ -67,3 +67,18 @@
 </p>
 
 > "The bee is more honored than other animals, not because she labors, but because she labors for others." - St. John Chrysostom 🐝
+
+## 🐝 GitHub Bee Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jenish-prog&show_icons=true&theme=yellowdark&title_color=FFD54F&icon_color=FFD54F&text_color=FFF8E1&bg_color=000000" alt="Jenish's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenish-prog&theme=highcontrast&ring=FFD54F&fire=FFD54F&currStreakLabel=FFD54F&background=000000" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenish-prog&bg_color=000000&color=FFD54F&line=FFD54F&point=FFF8E1&area=true&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="60" />
+</p>
+---
